@@ -1,4 +1,12 @@
 # Support-Bot
 Development for personal use support bot
 
-TODO: Write the readme xd
+# Bot token
+You should add a file named personal_bot_token.py with the following
+
+```python
+token = your_bot_token
+```
+where your_bot_token should be a string with your bot token value
+
+
